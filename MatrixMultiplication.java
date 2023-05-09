@@ -1,7 +1,8 @@
-package array;
+ackage is111;
 import java.util.*;
-public class mul_arr
+public class mat_mul
 {
+
 	public static void main(String[] args)
 	{
 		Scanner sc=new Scanner(System.in);
