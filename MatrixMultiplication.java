@@ -1,4 +1,4 @@
-ackage is111;
+package is111;
 import java.util.*;
 public class mat_mul
 {
